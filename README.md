@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone, This is my profile</h1>
 
-###
+
 
 <h3 align="left">My name is Krzysztof Kamiński, I am Junior Front-End Developer and Software Tester</h3>
 
