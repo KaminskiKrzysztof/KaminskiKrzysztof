@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Krzysztof Kamiński, I am Junior Front-End Developer and Software Tester</h4>
+<h3 align="left">My name is Krzysztof Kamiński, I am Junior Front-End Developer and Software Tester</h3>
 
 ###
 
