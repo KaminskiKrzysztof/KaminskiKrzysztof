@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">✨ I’m currently working on https://greenonsoftware.com/ | https://4markdown.com/<br><br>🧠 I’m also learning React, Tailwind, Node.js<br><br>👨‍💻 All of my projects are available at my portfolio page -> https://kaminskikrzysztof.github.io/My-Portoflio/<br><br>📝 Want to learn something new? visit 👉 https://4markdown.com/education-zone/ | https://greenonsoftware.com/articles/<br><br>📫 How to reach me krzysztofkaminski022@gmail.com</h4>
+<h4 align="left">✨ I’m currently working on https://greenonsoftware.com/ | https://4markdown.com/<br><br>🧠 I’m also learning React, Tailwind, Node.js<br><br>👨‍💻 All of my projects are available at my portfolio page -> https://kaminskikrzysztof.github.io/My-Portoflio/<br><br>📝 Want to learn something new? visit 👉 https://4markdown.com/education-zone/ | https://greenonsoftware.com/articles/<br><br>📫 How to reach me? 👉 krzysztofkaminski022@gmail.com</h4>
 
 ###
 
